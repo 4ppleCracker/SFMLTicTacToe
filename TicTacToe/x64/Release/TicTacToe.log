@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Game.cpp
+  gGraphics.cpp
+  TicTacToe.cpp
+  Generating code
+  All 181 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TicTacToe.vcxproj -> C:\Users\viggo\Source\Repos\C++Developement\TicTacToe\x64\Release\TicTacToe.exe
+  TicTacToe.vcxproj -> C:\Users\viggo\Source\Repos\C++Developement\TicTacToe\x64\Release\TicTacToe.pdb (Full PDB)
